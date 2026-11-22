@@ -1,0 +1,23 @@
+run_id: b09591c2-fb3f-49b4-92e5-783c0e883aa6
+[alunos] bytes estimados: 268545240
+[alunos] job_id=9059f772-8180-4a5d-912e-6fc91fb044bc bytes_processados=268545240
+[alunos] linhas: fonte=3867999 bronze=3867999
+[municipio] bytes estimados: 1832061
+[municipio] job_id=45dd5437-fc19-42d2-9602-1bd570b35c8a bytes_processados=1832061
+[municipio] linhas: fonte=23995 bronze=23995
+[uf] bytes estimados: 10330
+[uf] job_id=a1e7bbae-7a50-47e3-b13b-693c7ef223cf bytes_processados=10330
+[uf] linhas: fonte=145 bronze=145
+[meta_alfabetizacao_brasil] bytes estimados: 270
+[meta_alfabetizacao_brasil] job_id=43018d72-3525-4ce7-97e9-88db2dce3827 bytes_processados=270
+[meta_alfabetizacao_brasil] linhas: fonte=3 bronze=3
+[meta_alfabetizacao_uf] bytes estimados: 7374
+[meta_alfabetizacao_uf] job_id=5e4254a6-6aa3-42e6-b62a-efee8cd573b2 bytes_processados=7374
+[meta_alfabetizacao_uf] linhas: fonte=81 bronze=81
+[meta_alfabetizacao_municipio] bytes estimados: 1151232
+[meta_alfabetizacao_municipio] job_id=9299d621-52a7-4cf2-9d2f-44e5141ee85c bytes_processados=1151232
+[meta_alfabetizacao_municipio] linhas: fonte=10704 bronze=10704
+[dicionario] bytes estimados: 1174
+[dicionario] job_id=e382ce9e-c0e4-44d0-bd4c-895e1d72ac8d bytes_processados=1174
+[dicionario] linhas: fonte=27 bronze=27
+Ingestão concluída.
